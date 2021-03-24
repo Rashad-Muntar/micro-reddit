@@ -31,7 +31,7 @@
 
 ## Getting Started
 
-To run this app simply follow the steps below:
+To run this app simply follow the steps below
 
 ### Prerequisites
 
