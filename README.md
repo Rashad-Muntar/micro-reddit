@@ -37,6 +37,7 @@ To run this app simply follow the steps below:
 
 - Install Ruby programming language 3.0.0
 - Install Code editor
+- Clone this repository runing this command on your terminal `git clone https://github.com/Rashad-Muntar/micro-reddit.git`
 
 ### Usage
 
