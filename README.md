@@ -27,7 +27,7 @@
 
 ## Assosiations
 
-![assosiations](https://user-images.githubusercontent.com/70416006/112370529-239d4780-8ca3-11eb-8a41-c740d9b01ff2.png)
+![associations](https://user-images.githubusercontent.com/70416006/112370529-239d4780-8ca3-11eb-8a41-c740d9b01ff2.png)
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ To run this app simply follow the steps below:
 
 ### Description
 
-    App that includes data modeling assosiations and active record migrations
+    App that includes data modeling associations and active record migrations
     to practice by building a light weight Reddit clone.
 
 ## Built With
